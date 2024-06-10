@@ -1,0 +1,7 @@
+name,email,password,phone_number,nid,role
+Boss,boss1@gmail.com,1234,1627349181,123456789,agent
+Boss 2,boss2@gmail.com,aagea,1627349182,123456789,agent
+Merchant1,m1@gmail.com,agafaf,1627349183,123456789,Merchant
+Merchant 2,m2@gmail.com,afafa,1627349184,123456789,Merchant
+Customer 1,c1@gmail.com,agae,1627349185,123456789,Customer
+Customer 2,c2@gmail.com,aafae,1627349186,123456789,Customer
