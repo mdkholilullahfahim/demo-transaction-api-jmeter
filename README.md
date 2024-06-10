@@ -31,7 +31,20 @@ Customer Actions
 
   ## Setup Instructions
   Clone the Repository
-  - git clone https://github.com/your-username/your-repo.git cd your-repo
+  - git clone https://github.com/your-username/your-repo.git cd demo-transaction-api-jmeter
+
+  Open JMeter
+  - Launch JMeter.
+  - Open the test_plan.jmx file.
+ 
+  Configure Variables
+  - Update the user-defined variables in the test plan to match your environment (e.g., base URL, account IDs, etc.).
+
+ Run the Test Plan
+ - Click the green "Start" button in JMeter to run the test plan.
+
+## Contributing
+Feel free to contribute by submitting a pull request or opening an issue.
 
 
 
