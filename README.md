@@ -16,8 +16,22 @@
 ## Test Plan Structure
 The test plan is structured as follows:
 
-# Admin Actions
+Admin Actions
 - Create Agent
 - Create Customer
+
+Transactions
+- Deposit 2000 TK to Agent from System Account
+- Deposit 1000 TK to Customer from Agent Account
+
+Customer Actions
+- Check Balance
+- Withdraw 500 TK
+- Payment of 200 TK to Merchant
+
+  ## Setup Instructions
+  Clone the Repository
+  - git clone https://github.com/your-username/your-repo.git cd your-repo
+
 
 
