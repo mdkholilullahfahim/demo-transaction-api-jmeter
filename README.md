@@ -11,3 +11,12 @@
 ## Prerequisites
 - Apache JMeter 5.4.1 or later
 - Java 8 or later
+
+  
+## Test Plan Structure
+The test plan is structured as follows:
+1)
+- Create Agent
+- Create Customer
+
+  ##
