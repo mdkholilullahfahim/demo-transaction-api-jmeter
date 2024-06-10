@@ -15,8 +15,9 @@
   
 ## Test Plan Structure
 The test plan is structured as follows:
-1)
+
+# Admin Actions
 - Create Agent
 - Create Customer
 
-  ##
+
