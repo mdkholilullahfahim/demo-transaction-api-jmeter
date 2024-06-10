@@ -9,5 +9,5 @@
  - Payment of 200 TK from the customer account to a merchant account.
 
 ## Prerequisites
--- Apache JMeter 5.4.1 or later
--- Java 8 or later
+- Apache JMeter 5.4.1 or later
+- Java 8 or later
